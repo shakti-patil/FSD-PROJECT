@@ -1,7 +1,7 @@
 const product = [
     {
         id: 0,
-        image: './2.jpg',
+        image: '2.jpg',
         title: 'Sanheiser HeadSet',
         price: 120,
     },
