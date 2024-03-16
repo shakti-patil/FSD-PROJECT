@@ -1,25 +1,25 @@
 const product = [
     {
         id: 0,
-        image: '../p2.jpg',
+        image: '../2.jpg',
         title: 'Sanheiser HeadSet',
         price: 120,
     },
     {
         id: 1,
-        image: '../0vFHpABa.jpeg',
+        image: '../5.jpeg',
         title: 'Air Pods Pro',
         price: 60,
     },
     {
         id: 2,
-        image: '../samsung23.jpeg',
+        image: '../1.jpeg',
         title: 'Sumsung 23 Ultra',
         price: 799,
     },
     {
         id: 3,
-        image: '../iphone12.jpeg',
+        image: '../4.jpeg',
         title: 'iPhone 12',
         price: 989,
     }
